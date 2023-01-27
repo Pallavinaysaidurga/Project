@@ -6,6 +6,8 @@ This is a web based application developed for health related based website in in
 
 
 *Project Link* - https://icy-island-0abf9f200.2.azurestaticapps.net
+
+
 *project demo video link* - 
 
 ## Azure technologies used for Project
@@ -66,9 +68,10 @@ This is a web based application developed for health related based website in in
 
 ![Screenshot (39)](https://user-images.githubusercontent.com/118864254/215085041-4fd29796-c833-40af-99c3-d48caab5d2bb.png)
 
-![Screenshot (37)](https://user-images.githubusercontent.com/118864254/215085066-fa89cebf-577c-4ae0-9c82-11fba2439c56.png)
 
 
+
+![Screenshot (42)](https://user-images.githubusercontent.com/118864254/215085725-2634f3dd-e2e1-499a-865a-b71ec968d6b1.png)
 
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/118864254/215085175-69804ffa-5862-4b30-8f73-4f3920e35f71.png)
