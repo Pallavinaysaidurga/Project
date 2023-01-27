@@ -1,12 +1,12 @@
-# ✨  Medico ✨
+# ✨ MEDICO ✨
 
 This is a web based application developed for health related based website in india
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://icy-island-0abf9f200.2.azurestaticapps.net
-**project demo video link** - https://youtu.be/7Ql5iPuelmI 
+*Project Link* - https://icy-island-0abf9f200.2.azurestaticapps.net
+*project demo video link* - 
 
 ## Azure technologies used for Project
 
@@ -22,29 +22,60 @@ This is a web based application developed for health related based website in in
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots:
+## Screenshots
+
+
+## Home -
+
+   
+   
+   ![Screenshot (26)](https://user-images.githubusercontent.com/118864254/215084226-c315e5b0-7bdb-409c-aa68-ceca7d88bb4c.png)
+
+   
+   
+   
+   ![Screenshot (27)](https://user-images.githubusercontent.com/118864254/215084267-3b754ae8-91d0-41ca-b534-b68b66e93353.png)
+
+![Screenshot (28)](https://user-images.githubusercontent.com/118864254/215084309-1f11187c-0894-48eb-837f-477afecd3a60.png)
+
+### About Us -
+
+
+![Screenshot (29)](https://user-images.githubusercontent.com/118864254/215084355-4f91361c-a2c7-4d51-9cba-79350006eb06.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/118864254/215084376-363f75d6-fbc9-42de-bc33-2d1b6d070af5.png)
+
+### Services -
+
+![Screenshot (31)](https://user-images.githubusercontent.com/118864254/215084400-a79afaad-1e07-4b37-aa66-7cb5257c3a21.png)
+
+![Screenshot (32)](https://user-images.githubusercontent.com/118864254/215084424-5760adbe-6e22-496c-9228-be686be1fcc9.png)
+
+### Contact us -
+
+![Screenshot (35)](https://user-images.githubusercontent.com/118864254/215084520-64d0bc53-157a-4090-badf-90632b633cd8.png)
+
+![Screenshot (36)](https://user-images.githubusercontent.com/118864254/215084563-7c3573bf-aa7f-4996-ae6c-f71c9aa5c7ac.png)
+
+
+### Career -
+![Screenshot (33)](https://user-images.githubusercontent.com/118864254/215084821-52ce2167-13bd-41a6-8551-b9bb32907b52.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/118864254/215084857-0e030643-c13b-415a-a968-997262fee898.png)
+
+### health bot -
+
+
+![Screenshot (39)](https://user-images.githubusercontent.com/118864254/215085041-4fd29796-c833-40af-99c3-d48caab5d2bb.png)
+
+![Screenshot (37)](https://user-images.githubusercontent.com/118864254/215085066-fa89cebf-577c-4ae0-9c82-11fba2439c56.png)
 
 
 
-![Screenshot (9)](https://user-images.githubusercontent.com/118864254/209966383-6acec7f0-649b-4a89-ab8e-9dc20591475b.png)
-![Screenshot (21)](https://user-images.githubusercontent.com/118864254/209966845-f333e69b-4356-440d-ab15-edf5916a2279.png)
-![Screenshot (20)](https://user-images.githubusercontent.com/118864254/209966857-52fcdd87-0e91-402f-b1dd-1dbf4e8c79ff.png)
-![Screenshot (19)](https://user-images.githubusercontent.com/118864254/209966863-01670984-ba31-4059-b717-65c0d003365e.png)
-![Screenshot (18)](https://user-images.githubusercontent.com/118864254/209966865-3d015712-f89c-4029-9479-94efcfa4d9e2.png)
-![Screenshot (17)](https://user-images.githubusercontent.com/118864254/209966871-dbf1577f-3492-4fa5-90e5-ec9b0bc49fac.png)
-![Screenshot (16)](https://user-images.githubusercontent.com/118864254/209966875-66bdf219-0dbd-4b48-9a86-b836c417b658.png)
-![Screenshot (15)](https://user-images.githubusercontent.com/118864254/209966877-e63ff91a-23ae-44a4-89d7-de48bc436028.png)
-![Screenshot (14)](https://user-images.githubusercontent.com/118864254/209966882-4da8afb9-06db-44c1-8642-e4734827510e.png)
-![Screenshot (13)](https://user-images.githubusercontent.com/118864254/209966887-98f11137-ee71-48bf-85a8-93fc8f82a1a3.png)
-![Screenshot (12)](https://user-images.githubusercontent.com/118864254/209966889-d8675cb9-ac84-4aec-a0f1-c3120a7cce1c.png)
-![Screenshot (11)](https://user-images.githubusercontent.com/118864254/209966892-41686c7b-f24d-4684-a47c-ac6333fe5f7d.png)
-![Screenshot (10)](https://user-images.githubusercontent.com/118864254/209966893-29747282-4346-4afa-9463-8f069c1a8d13.png)
-![Screenshot (22)](https://user-images.githubusercontent.com/118864254/209966896-25585711-0497-4290-9977-e79c73030f02.png)
+
+![Screenshot (40)](https://user-images.githubusercontent.com/118864254/215085175-69804ffa-5862-4b30-8f73-4f3920e35f71.png)
 
 
 
-
-
+![Screenshot (41)](https://user-images.githubusercontent.com/118864254/215085203-3a754cc3-5d7e-4af4-9f95-bf5e7859d28a.png)
 
 
 
